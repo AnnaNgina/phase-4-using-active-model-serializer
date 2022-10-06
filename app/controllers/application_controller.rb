@@ -1,2 +1,3 @@
-class ApplicationController < ActionController::API
-end
+class MoviesController < ApplicationController
+
+  end
